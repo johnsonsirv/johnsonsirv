@@ -9,8 +9,8 @@
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Snr. Back-end Engineer at [Projsx](https://projsx.com/) \
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for AI & Machine Learning for agri-tech while experimenting with stuff\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and writing on [medium](https://medium.com/@VOkeugo).\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching serverless architecture, distributed systems, and AI adoption in precision agriculture & marketplace.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with 4+ years of experience in enterprise wide software development. View [Resume](https://docs.google.com/document/d/1BYLvV0oH_3nOB1H5A99A7ZPHREmxVV3UkoA9zMfraTs/edit?usp=sharing)\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching scaling ROR architecture, distributed systems, and AI adoption in e-commerce.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2017 with 4+ years of experience in enterprise wide software development.
 &nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Nigeria with my lovely wife :two_hearts: Olivia.
 
 <p align="center">
